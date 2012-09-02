@@ -1,6 +1,6 @@
 require "control_group/version"
 
-module ControlGroup
+module BootstrapHelper
 
   def control_group f, field_name, input_type = nil, *options, &block
     help = nil #options.is_a?(Hash) ? options.delete(:help) : nil TODO: Fix it
