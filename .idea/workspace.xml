@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bdefc3c-7348-4624-93b9-780080c7d810" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/control_group.gemspec" afterPath="$PROJECT_DIR$/control_group.gemspec" />
     </list>
     <ignored path="control_group.iws" />
@@ -26,19 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="control_group.gemspec" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="control_group.gemspec" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/control_group.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="45" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+            <state line="9" column="37" selection-start="313" selection-end="313" vertical-scroll-proportion="0.17094973">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="5" selection-start="38" selection-end="38" vertical-scroll-proportion="0.07597765">
+            <state line="5" column="9" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -98,8 +96,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/lib/control_group.rb" />
-        <option value="$PROJECT_DIR$/control_group.gemspec" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/control_group.gemspec" />
       </list>
     </option>
   </component>
@@ -326,16 +324,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/control_group.gemspec">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="45" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+        <state line="5" column="9" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/control_group.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="5" selection-start="38" selection-end="38" vertical-scroll-proportion="0.07597765">
+        <state line="9" column="37" selection-start="313" selection-end="313" vertical-scroll-proportion="0.17094973">
           <folding />
         </state>
       </provider>

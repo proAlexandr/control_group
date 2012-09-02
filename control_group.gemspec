@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = ControlGroup::VERSION
   s.authors     = ["MyStand"]
   s.email       = ["info@mystand.ru"]
-  s.homepage    = "mystand.ru"
+  s.homepage    = "http://mystand.ru/"
   s.summary     = "Add control_group function"
   #s.description = ""
 
