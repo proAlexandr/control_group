@@ -1,0 +1,16 @@
+<h1>control_group</h1>
+gem adds a method that creates the structure of the elements for
+each field that is displayed correctly when using Bootstrap.
+
+<h1>Installation</h1>
+To install use:
+
+gem install control_group
+
+<h1>Usage</h1>
+
+<%= form_for "feedback", :html => { :class => "form-horizontal" } do |f| %>
+    <%= control_group f, :email, :text_field %>
+    <%= control_group f, :name, :text_field %>
+    <%= control_group f, :message, :text_area %>
+

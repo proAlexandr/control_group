@@ -1,4 +1,4 @@
-require "view_helpers"
+require "control_group/view_helpers"
 
 module ControlGroup
 
